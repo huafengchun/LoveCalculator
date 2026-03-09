@@ -16,7 +16,7 @@ Computes Life Path Numbers for both persons and compares them using a compatibil
 
 Displays life path numbers and a percentage score.
 
-3. Love Language Test
+3. Love Test Quiz
 20-question quiz that analyzes behavior and body language to gauge romantic interest.
 
 Each question has four options with point values (0–3).
@@ -29,13 +29,6 @@ Collection of beautiful love quotes with category filters (romantic, short, deep
 Each quote card includes copy and share buttons.
 
 Featured quotes slider and a "Quote of the Day" section.
-
-5. Is It Real Love Quiz 
-15-question quiz (in Chinese) based on psychological theories (Rubin's Love Scale, Sternberg's Triangular Theory of Love).
-
-Helps users reflect on whether their feelings are deep love or mere infatuation.
-
-Score range 0–45 with five levels of analysis.
 
 🛠️ Technology Stack
 HTML5 – Semantic markup
@@ -53,9 +46,8 @@ No external dependencies – Vanilla JS only, runs entirely in the browser
 love-calculator-website/
 │
 ├── index.html                # Home page (name & birth date calculators)
-├── love-language-test.html   # Love Language Test (20 questions)
+├── love-test-quiz.html   # Love Language Test (20 questions)
 ├── love-quotes.html          # Love quotes gallery
-├── is-it-real-love-quiz.html # "Is It Real Love" quiz (Chinese)
 ├── README.txt                # This file
 └── assets/                   # (optional) – images, if any
 
